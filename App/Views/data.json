@@ -1,0 +1,427 @@
+{
+"students": [
+    
+    {
+
+        "firstname": "Sandeep",
+		
+		"lastname": "Alla",
+
+        "age": "21",
+
+      "location": "Illinois"  
+		
+
+    },
+
+    {
+
+        "firstname": "Manideep",
+		
+		"lastname": "Kamarajugadda",
+
+        "age": "21",
+		
+		"location": "Illinois"
+
+    },
+	{
+
+        "firstname": "Siddharth",
+		
+		"lastname": "Arja",
+
+        "age": "21",
+		
+		"location": "Illinois"
+
+    },
+{
+
+        "firstname": "Rahul",
+		
+		"lastname": "Pothireddy",
+
+        "age": "21",
+		
+		"location": "Illinois"
+
+    },
+{
+
+        "firstname": "Gayathri",
+		
+		"lastname": "Sanikommu",
+
+        "age": "21",
+		
+	"location": "Illinois"
+
+    },
+{
+
+        "firstname": "vamsi",
+		
+		"lastname": "Chunduri",
+
+        "age": "21",
+		
+		"location": "Alaska"
+
+    },
+{
+
+        "firstname": "Maruthi",
+		
+		"lastname": "Dittakavi",
+
+        "age": "21",
+		
+		"location": "Alaska"
+
+    },
+{
+
+        "firstname": "Karthik",
+		
+		"lastname": "Meka",
+
+        "age": "21",
+		
+		"location": "Alaska"
+
+    },
+{
+
+        "firstname": "Gayathri",
+		
+		"lastname": "Sanikommu",
+
+        "age": "21",
+		
+		"location": "Alaska"
+
+    },
+{
+
+        "firstname": "vamsi",
+		
+		"lastname": "Chunduri",
+
+        "age": "21",
+		
+		"location": "California"
+
+    },
+{
+
+        "firstname": "Maruthi",
+		
+		"lastname": "Dittakavi",
+
+        "age": "21",
+		
+		"location": "California"
+
+    },
+  {
+
+    "firstname": "Karthik",
+
+    "lastname": "Meka",
+
+    "age": "21",
+
+    "location": "California"
+
+  },
+  {
+
+    "firstname": "Rahul",
+
+    "lastname": "Marupaka",
+
+    "age": "21",
+
+    "location": "California"
+
+  },
+  {
+
+    "firstname": "Dharmita",
+
+    "lastname": "Karanam",
+
+    "age": "21",
+
+   "location": "California"
+
+  },
+   {
+
+    "firstname": "Karthik",
+
+    "lastname": "Meka",
+
+    "age": "21",
+
+    "location": "Texas"
+
+  },
+  {
+
+    "firstname": "Rahul",
+
+    "lastname": "Marupaka",
+
+    "age": "21",
+
+    "location": "Texas"
+
+  },
+  {
+
+    "firstname": "Dharmita",
+
+    "lastname": "Karanam",
+
+    "age": "21",
+
+    "location": "Texas"
+
+  },
+   {
+
+    "firstname": "Karthik",
+
+    "lastname": "Meka",
+
+    "age": "21",
+
+    "location": "Texas"
+
+  },
+  {
+
+    "firstname": "Rahul",
+
+    "lastname": "Marupaka",
+
+    "age": "21",
+
+    "location": "Texas"
+
+  },
+  {
+
+    "firstname": "Dharmita",
+
+    "lastname": "Karanam",
+
+    "age": "21",
+
+    "location": "Texas"
+
+  },
+   {
+
+    "firstname": "Karthik",
+
+    "lastname": "Meka",
+
+    "age": "21",
+
+    "location": "Texas"
+
+  },
+  {
+
+    "firstname": "Rahul",
+
+    "lastname": "Marupaka",
+
+    "age": "21",
+
+    "location": "Arizona"
+
+  },
+  {
+
+    "firstname": "Dharmita",
+
+    "lastname": "Karanam",
+
+    "age": "21",
+
+    "location": "Arizona"
+
+  },
+   {
+
+    "firstname": "Karthik",
+
+    "lastname": "Meka",
+
+    "age": "21",
+
+   "location": "Arizona"
+
+  },
+  {
+
+    "firstname": "Rahul",
+
+    "lastname": "Marupaka",
+
+    "age": "21",
+
+    "location": "Arizona"
+
+  },
+  {
+
+    "firstname": "Dharmita",
+
+    "lastname": "Karanam",
+
+    "age": "21",
+
+    "location": "Arizona"
+
+  },
+   {
+
+    "firstname": "Karthik",
+
+    "lastname": "Meka",
+
+    "age": "21",
+
+    "location": "Arizona"
+
+  },
+  {
+
+    "firstname": "Rahul",
+
+    "lastname": "Marupaka",
+
+    "age": "21",
+
+    "location": "Arizona"
+
+  },
+  {
+
+    "firstname": "Dharmita",
+
+    "lastname": "Karanam",
+
+    "age": "21",
+
+    "location": "Colorado"
+
+  },
+   {
+
+    "firstname": "Karthik",
+
+    "lastname": "Meka",
+
+    "age": "21",
+
+    "location": "Colorado"
+
+  },
+  {
+
+    "firstname": "Rahul",
+
+    "lastname": "Marupaka",
+
+    "age": "21",
+
+    "location": "Colorado"
+
+  },
+  {
+
+    "firstname": "Dharmita",
+
+    "lastname": "Karanam",
+
+    "age": "21",
+
+   "location": "Colorado"
+
+  },
+   {
+
+    "firstname": "Karthik",
+
+    "lastname": "Meka",
+
+    "age": "21",
+
+    "location": "Colorado"
+
+  },
+  {
+
+    "firstname": "Rahul",
+
+    "lastname": "Marupaka",
+
+    "age": "21",
+
+    "location": "Florida"
+
+  },
+  {
+
+    "firstname": "Dharmita",
+
+    "lastname": "Karanam",
+
+    "age": "21",
+
+    "location": "Florida"
+
+  },
+   {
+
+    "firstname": "Karthik",
+
+    "lastname": "Meka",
+
+    "age": "21",
+
+    "location": "Florida"
+
+  },
+  {
+
+    "firstname": "Rahul",
+
+    "lastname": "Marupaka",
+
+    "age": "21",
+
+    "location": "Florida"
+
+  },
+  {
+
+    "firstname": "Dharmita",
+
+    "lastname": "Karanam",
+
+    "age": "21",
+
+    "location": "Florida"
+
+  }
+	
+
+]
+}

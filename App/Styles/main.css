@@ -1,0 +1,81 @@
+﻿.grid {
+    width: 1000px;
+ border: 1px solid rgb(212,212,212);
+}
+
+.verticalText
+{
+  height:120px;    
+}
+
+.verticalTextSpan
+{    
+   margin:auto; 
+  position: relative;
+  height: 200px;
+  width: 105px; 
+  bottom: 40px;
+  text-align:center;    
+  display: table-cell;
+  vertical-align:middle;
+  -webkit-transform:rotate(270deg);
+  -moz-transform:rotate(270deg);
+  -o-transform: rotate(270deg);
+  -ms-transform:rotate(270deg); 
+   transform: rotate(270deg);
+}
+
+.ui-grid-cell-contents { 
+    padding:5px;     
+    white-space:normal; 
+    word-break: break-word;     
+}
+
+
+
+/*.ui-grid-spilt-header-main{	
+  line-height: 17px; 
+  
+}
+
+.ui-grid-split-merge-header{  
+	position: absolute;
+	background: #f3f3f3;
+	text-align: center;
+	line-height: 30px;
+	z-index: 1;
+	top: 0px;
+	left:0px;
+}
+
+.ui-grid-header-table tr td{
+  border-bottom:1px solid #ccc;
+  border-right:1px solid #ccc;
+}*/
+
+
+.ui-grid-cell-focus{
+    background-color:transparent;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: gray;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+   transform: rotate(270deg);
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+
